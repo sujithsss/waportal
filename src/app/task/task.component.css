@@ -1,0 +1,115 @@
+div.content {
+    margin-left: 210px;
+    margin-top: 47px;
+    padding: 1px 16px;
+    height: 1000px;
+    position:fixed ;
+  }
+
+.task_table{
+  
+  margin-top: 30px;
+  background-color: white;
+  border-color: grey;
+  border: 1px solid rgba(128, 128, 128, 0.407);
+  border-radius: 5px;
+  height: fit-content;
+}
+
+.table_name{
+  margin: 0%;
+  padding: 0px 1210px 0px 0px;
+  top: 0%;
+  border-radius: 5px;
+  background-color: rgb(238, 242, 246);
+  
+}
+
+
+.list_table{
+  border: 0.2px solid rgb(216, 216, 216);
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  min-width: max-content;
+  font-family: Roboto;
+  margin: 0;
+  padding: 10px;
+  border-spacing: 2px;
+
+}
+
+.pagination, .pagination-right {
+  align-items: center;
+  display: flex;
+  background-color: #f8f8f8;
+    justify-content: space-between;
+    padding: 10px 15px;
+}
+.pagination-right select {
+  background-color: #f8f8f8;
+  border: .5px solid #d8d8d8;
+  border-radius: 4px;
+  outline: none;
+  padding: 2px 5px;
+}
+.css-jpbqk9 {
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentcolor;
+  flex-shrink: 0;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.css-jpbqk9 {
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentcolor;
+  flex-shrink: 0;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.pagination-right {
+  gap: 10px;
+}
+
+.pagination-right button {
+  background-color: initial;
+  border: none;
+  color: #000;
+  cursor: pointer;
+  font-size: 16px;
+  outline: none;
+}
+
+.pagination {
+  background-color: #f8f8f8;
+  justify-content: space-between;
+  padding: 10px 15px;
+  align-items: center;
+  display: flex;
+}
+.custom-table-body table {
+  border-collapse: collapse;
+  min-width: 500px;
+  overflow: auto;
+  width: 100%;
+}
+
+.custom-table thead {
+  background-color: #f8f8f8;
+  border-collapse: collapse;
+  border-top-left-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.style_table{
+  padding: 0px 20px 20px 20px;
+  height: fit-content;
+}
+
+
